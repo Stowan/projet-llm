@@ -1,0 +1,23 @@
+{
+  "name": "projet-llm",
+  "version": "1.0.0",
+  "description": "Ce projet utilise un **Large Language Model (LLM)** en local, automatisé via **n8n**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stowan/projet-llm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stowan/projet-llm/issues"
+  },
+  "homepage": "https://github.com/Stowan/projet-llm#readme",
+  "dependencies": {
+    "n8n": "^1.0.5"
+  }
+}
